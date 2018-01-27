@@ -23,7 +23,7 @@ export class GameboardFactory {
         if (faceLength != parseInt(faceLength.toString(), 10)) throw this.invalidFaceLengthMessage;
 
         if (radius < 1) throw this.invalidRadiusMessage;
-        if (radius != parseInt(radius.toString(), 10)) throw this.invalidFaceLengthMessage;
+        if (radius != parseInt(radius.toString(), 10)) throw this.invalidRadiusMessage;
 
         this.faceLength = faceLength;
         this.radius = radius;
