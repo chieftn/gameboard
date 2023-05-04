@@ -66,3 +66,4 @@ rcf/
 ecf/
 /src/WebRole.AcceptanceTests/authentication.json
 /src/WebRole.AcceptanceTests/typings
+!webpack.config.js
