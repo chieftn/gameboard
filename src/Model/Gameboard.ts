@@ -1,4 +1,4 @@
-import { GameboardTile } from "./GameBoardTile"
+import { GameboardTile } from "./GameboardTile"
 import { TwoDimensionCoordinate } from "../Common/TwoDimensionCoordinate";
 
 export class Gameboard {
