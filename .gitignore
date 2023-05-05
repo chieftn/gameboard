@@ -67,3 +67,4 @@ ecf/
 /src/WebRole.AcceptanceTests/authentication.json
 /src/WebRole.AcceptanceTests/typings
 !webpack.config.js
+!dist/bundle.js
